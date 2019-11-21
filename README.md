@@ -1,3 +1,3 @@
 ## pure-typescript-example
 
-https://github.com/kawsarIbnSiraj/pure-typescript-example/blob/master/screenshot/typescript.PNG
+![1](https://github.com/kawsarIbnSiraj/pure-typescript-example/blob/master/screenshot/typescript.PNG)
